@@ -1,2 +1,12 @@
 # Ignore the following files
+*.aux
+*.toc
 *.pdf
+*.ps
+*.log
+*.dvi
+*.tex~
+*.out
+*.fls
+*.fdb_latexmk
+*.run.xml
